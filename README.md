@@ -1,4 +1,4 @@
-## Tutorial: Building AI Agentic Applications with BeeAI, watsonx Orchestrate, and ICA
+## Building AI Agentic Applications with BeeAI, Watsonx Orchestrate, and ICA
 
 This comprehensive tutorial guides you step-by-step through three powerful frameworks for developing, deploying, and governing AI-driven agents and Agentic Applications:
 
@@ -302,17 +302,7 @@ ICA for Agentic Applications is IBM Consulting’s modular platform to accelerat
 * **Branching model**: follow `feature/`, `bugfix/`, `release/` conventions
 * **Templates**: use page and agent scaffolding tools in `development/`
 * **Review process**: open PR against `main`, assign AIIS Offering Leader and CTO
-* **Community contacts**:
 
-  * Francesco Brenna (Offering Leader)
-  * Janorious Rabeela (CTO)
-  * Moustapha Karaki (Microsoft)
-  * Chayan Ray (AWS)
-  * Monisankar Das (IBM)
-  * Pradeep Raj (NVIDIA/GCP)
-  * Muthu Mangai Muthiah (AI Product)
-  * Daniel Ehmann (Agentic Apps)
-  * Malina Negru (Product)
 
 ---
 
